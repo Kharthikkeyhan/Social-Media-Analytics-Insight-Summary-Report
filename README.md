@@ -12,3 +12,11 @@ To analyze audience demographics and user behavior by examining the influence of
 To investigate the relationship between posting time, audience sentiment, and content performance by analyzing positive, neutral, and negative sentiment posts, identifying the best posting windows, and understanding how emotional tone influences user engagement.
 To perform univariate, bivariate, and multivariate exploratory data analysis (EDA) using statistical techniques and visualizations such as histograms, box plots, scatter plots, correlation heatmaps, pair plots, grouped analyses, and pivot tables to identify trends, relationships, and patterns within the dataset.
 To generate actionable insights and business recommendations that support data-driven decision-making for improving content strategy, audience targeting, posting schedules, platform optimization, and overall social media marketing performance.
+🔍 Key Highlights
+Analyzed 5,000 social media posts across 10 countries (2022–2023).
+Performed data cleaning, preprocessing, and feature engineering.
+Conducted Exploratory Data Analysis (EDA) using descriptive statistics and visualizations.
+Compared engagement across post formats, content categories, countries, age groups, device types, and account verification status.
+Examined sentiment patterns, posting schedules, watch time, impressions, and engagement rates.
+Applied univariate, bivariate, and multivariate analysis to identify trends, relationships, and behavioral patterns.
+Generated business insights and recommendations to support data-driven social media marketing decisions.
